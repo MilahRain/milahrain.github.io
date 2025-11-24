@@ -6,7 +6,7 @@ This repository contains my personal website, built using an HTML5UP template an
 This website is hosted using GitHub Pages.
 
 Visit here:
-https://MilahRain.github.io/Milah-s-Website
+https://milahrain.github.io
 
 (If the link doesn’t load yet, it will work as soon as GitHub Pages is enabled in the repository settings.)
 
